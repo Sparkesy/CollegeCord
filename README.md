@@ -1,4 +1,4 @@
-# Custom Discord Client with GPT AI Integration
+# OpenCord
 
 This is a custom Discord client with GPT AI integration built using C# WinForms. It allows users to chat with an AI powered by OpenAI's GPT language model within a Discord server.
 
