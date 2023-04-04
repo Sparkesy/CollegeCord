@@ -12,9 +12,9 @@ This is a custom Discord client with GPT AI integration built using C# WinForms.
 
 ## Requirements
 
-- .NET Framework 4.7.2 or later
-- Discord account
-- OpenAI API key (you can obtain this from the OpenAI website)
+- It will require .NET Framework 4.7.2 or later
+- It will require Discord account
+- It will require OpenAI API key (you can obtain this from the OpenAI website)
 
 ## Installation
 
@@ -34,7 +34,7 @@ You can customize the commands and responses by editing the `Bot.cs` file. Refer
 
 ## Future Plans
 
-While this app is currently built using C# WinForms, we plan to explore other cross-platform and mobile app options in the future.
+While this app is currently going to be built using C# WinForms, we plan to explore other cross-platform and mobile app options in the future.
 
 ## Contributing
 
