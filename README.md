@@ -8,7 +8,7 @@ This is a custom Discord client with GPT AI integration built using C# WinForms.
 - Use GPT-3.5 language model to generate responses
 - **Customizable commands and responses**
 - Easy to install and set up
-- Built using C# WinForms
+- We are going to build it using C# WinForms
 
 ## Requirements
 
